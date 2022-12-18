@@ -1,0 +1,8 @@
+/*Alinhamento de tudo do app no centro*/
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
